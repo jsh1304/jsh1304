@@ -15,11 +15,18 @@
   <br>
   
   <br><br><br>
+</div>
+
+<div align=center><h1>Stats</h1></div>
+
+<div align=center> 
  
   ![jj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh1304&show_icons=true&theme=dracula)
   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1304&layout=compact&theme=dracula)
   
 </div>
+  
+
  
  
 

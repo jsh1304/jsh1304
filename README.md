@@ -13,9 +13,11 @@
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
   <br>
   
- </div>
+</div>
  
  
  <br><br><br>
  
- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1304&layout=compact&theme=dracula)
+<div align=center> 
+   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1304&layout=compact&theme=dracula)
+<div>

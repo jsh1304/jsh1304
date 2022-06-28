@@ -1,5 +1,3 @@
-### Hi there 👋
-
 <div align=center><h1>📚 Stacks</h1></div>
 
 <div align=center> 

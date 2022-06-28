@@ -16,7 +16,7 @@
   <br><br><br>
  
 
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1304&layout=compact&theme=dracula)
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jsh1304&layout=demo&theme=dracula)
   
 </div>
  

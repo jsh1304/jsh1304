@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<div align=center><h1>📚 STACKS</h1></div>
+<div align=center><h1>📚 Stacks</h1></div>
 
 <div align=center> 
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
@@ -21,7 +21,7 @@
 
 <br><br><br>
 
-<div align=center><h1>Stats</h1></div>
+<div align=center><h1>✒️ Stats</h1></div>
 
 <div align=center> 
  

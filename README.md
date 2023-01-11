@@ -15,7 +15,7 @@
   <br><br>
   
  
-
+<!--
 </div>
 
 <br>
@@ -27,7 +27,7 @@
   ![jj's GitHub stats](https://github-readme-stats.vercel.app/api?username=jsh1304&show_icons=true&theme=dracula)
   
 </div>
-  
+-->  
 
  
  

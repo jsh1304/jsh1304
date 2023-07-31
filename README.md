@@ -1,16 +1,17 @@
 <div align=center><h1>📚 Stacks</h1></div>
 
-<div align=center> 
+<div align=center>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white">
-  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C sharp&logoColor=white">
+  <!-- <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=C sharp&logoColor=white"> -->
   <!-- <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> -->
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"> 
-  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=Kotlin&logoColor=white">
   <br>
   
+  <img src="https://img.shields.io/badge/firebase-003545?style=for-the-badge&logo=firebase&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white">
   <img src="https://img.shields.io/badge/mariaDB-003545?style=for-the-badge&logo=mariaDB&logoColor=white">
-  <img src="https://img.shields.io/badge/firebase-003545?style=for-the-badge&logo=firebase&logoColor=white">
   <br>
   <br><br>
   
